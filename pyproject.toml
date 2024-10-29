@@ -16,4 +16,4 @@ issues = "https://github.com/PiethonProgram/MagicHatPKG/issues"
 python = "^3.12"
 
 
-[build-system]'
+[build-system]

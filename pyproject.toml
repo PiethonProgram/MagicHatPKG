@@ -2,13 +2,18 @@
 name = "magichat"
 version = "0.1.0"
 description = "Funsies"
-authors = ["ethan <ethan.lee.zhu@gmail.com>"]
+authors = ["Ethan <ethan.lee.zhu@gmail.com>"]
 readme = "README.md"
+license = "BSD-3-Clause"
+
+
+[project.urls]
+repository = "https://github.com/PiethonProgram/MagicHatPKG"
+issues = "https://github.com/PiethonProgram/MagicHatPKG/issues"
+
 
 [tool.poetry.dependencies]
 python = "^3.12"
 
 
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[build-system]'
